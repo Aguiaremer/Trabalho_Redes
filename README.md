@@ -1,6 +1,4 @@
-# Processo-Seletivo-Venko-Networks
-
-Esse é um repositório criado para a resolução da avaliação técnica do processo seletivo da Venko Networks.
+# Comunicação entre aplicações
 
 ## Como executar cada aplicação
 
